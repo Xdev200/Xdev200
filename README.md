@@ -9,13 +9,6 @@ Hi, I am Jamshedpur-native, Developer turned Entrepreneur. I am a FullStack Deve
   </p>
 
 <p><a href="https://github.com/xdev200">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xdev200&layout=compact&hide=php&theme=merko"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xdev200&layout=compact&hide=php,hack,dockerfile,rust,scss,shell&theme=merko"/>
 </a></P
 
-
-<a href="https://github.com/Madhusudan707/startup-reads">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Madhusudan707&repo=startup-reads&layout=compact&hide=php&theme=merko&show_owner=true" />
-</a>
-<a href="https://github.com/Madhusudan707/startup-tube">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Madhusudan707&repo=startup-tube&layout=compact&hide=php&theme=merko&show_owner=true" />
-</a>
