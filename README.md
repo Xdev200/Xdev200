@@ -4,7 +4,15 @@
 ![profile count](https://komarev.com/ghpvc/?username=AbhishekSinghDhadwal&color=red)&nbsp;
 ![GitHub XDEV200](https://img.shields.io/github/followers/xdev200?label=follow&style=social)
 
-<h5>Hi, I am Jamshedpur-native, Developer turned Entrepreneur. I am a FullStack Developer with MERN. I can also speak to databases and make servers do stuff. I like working on scalability, performance, design, and great user experiences. When I'm not coding, I'm probably hanging out with my friends, playing chess, watching movies, listening to music, and chatting with friends.</h5>
+- 🏠  Jamshedpur native
+- 💻  Full-Stack Web Developer 
+- 👨🏽‍💻  I’m currently working on something cool 😉.
+- 🌱  I’m currently learning MERN.
+- 💬  Ask me about ** JavaScript CSS HTML **
+- ❤️   Gadgets, Chess and Music
+- ❓  Want to know more about me? You can always contact me via Social Media.
+- ⚡   Fun fact: Developer turned Entrepreneur
+
 
 ## Connect With Me
  <a href="https://www.linkedin.com/in/madhusudan-das-8552ba196/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://twitter.com/xdev_200"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"> </a>
