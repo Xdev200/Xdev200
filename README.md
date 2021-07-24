@@ -8,7 +8,7 @@
 - 💻  Full-Stack Web Developer 
 - 👨🏽‍💻  I’m currently working on something cool 😉.
 - 🌱  I’m currently learning MERN.
-- 💬  Ask me about ** JavaScript CSS HTML **
+- 💬  Ask me about ** JS CSS HTML **
 - ❤️   Gadgets, Chess and Music
 - ❓  Want to know more about me? You can always contact me via Social Media.
 - ⚡   Fun fact: Developer turned Entrepreneur
